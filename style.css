@@ -10,3 +10,12 @@ color: darkblue;
 h2{
 color: darkgreen;
 }
+img{
+border-radius: 50%;
+}
+
+
+ul{
+background: white;
+padding: 20px;
+}
