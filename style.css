@@ -1,6 +1,10 @@
 body{
 font-family: Arial;
 background-color: #f4f4f4;
+display: flex;
+flex-direction: column;
+align-items: center;
+
 }
 h1{
 color: darkblue;
@@ -18,4 +22,14 @@ border-radius: 50%;
 ul{
 background: white;
 padding: 20px;
+}
+nav a{
+ margin: 10px;
+ text-decoration: none;
+}
+nav a:hover{
+ color: red;
+}
+main{
+ width: 80%;
 }
